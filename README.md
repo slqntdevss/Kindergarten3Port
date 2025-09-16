@@ -9,3 +9,5 @@ you are a 5 year old and you need to survive kindergarten!!!
 SMASH GAMES - making the game
 
 slqnt - porting the game (im a cutie i know)
+
+breadbb - helping organize the files
